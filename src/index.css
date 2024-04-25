@@ -1,0 +1,31 @@
+.app {
+    background-color: #374151;
+    padding: 20px;
+    width: 50%;
+    margin: auto
+}
+
+.header {
+    color: #616a7b;
+    max-width: 800px;
+    font-weight: 500px;
+    width: 100%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inputStyle {
+    width: 83%;
+    margin-top: 10px;
+    height: 40px;
+    padding: 7px;
+    background-color: lightgray;
+    border-radius: 10px;
+    padding-left: 10px;
+    font-size: 1.25rem;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
